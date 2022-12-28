@@ -1,3 +1,4 @@
+*.meta
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
@@ -54,7 +55,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-.meta
+
 # Crashlytics generated file
 crashlytics-build.properties
 
